@@ -69,8 +69,9 @@ The source code for Coinflip Bot is **not public**. This repository is only for:
 
 **Asxy** — Creator and maintainer of Coinflip Bot  
 For inquiries or bug reports, join the bot support server.
-link : (https://discord.gg/bpVqfEwU8V)
-vote: (https://top.gg/bot/1368608117226602557)
+>[Support Server.](https://discord.gg/bpVqfEwU8V)
+>[Vote us.](ttps://top.gg/bot/1368608117226602557)
+
 
 ---
 
