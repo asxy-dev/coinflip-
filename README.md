@@ -71,6 +71,7 @@ The source code for Coinflip Bot is **not public**. This repository is only for:
 For inquiries or bug reports, join the bot support server.
 >[Support Server.](https://discord.gg/bpVqfEwU8V)
 >[Vote us.](ttps://top.gg/bot/1368608117226602557)
+>[Website](https://coinflipbot.netlify.app/)
 
 
 ---
