@@ -1,3 +1,6 @@
+# SHUTDOWNED
+
+
 # 🎲 Coinflip Bot — Public Discord Economy Bot
 
 **Coinflip Bot** is a publicly available Discord bot packed with 20+ economy-based commands, including a fun coinflip game, XP leveling, banking, upgrades, lotteries, and more. It’s built to enhance user engagement and bring interactive rewards to your server.
